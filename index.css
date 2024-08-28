@@ -1,0 +1,44 @@
+.box{
+    background-color: aqua;
+    height: 600px;
+    width: 900px;
+}
+.parent{
+
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    align-items: center;
+   
+}
+.card{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    height:400px;
+    width:300px;
+    background-color: rgb(223, 223, 224);
+    border-radius:35px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.image{
+   margin-left:10%; 
+   margin-top: 10%;
+}
+
+.text{
+    text-align: center;
+    color: rgb(8, 244, 59);
+}
+
+
+.text1{
+    text-align: center;
+    color: rgb(244, 8, 87);
+}
+
+
+
+
+
+
+
